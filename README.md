@@ -1,5 +1,4 @@
-<h2>Welcome to my GitHub! I'm Eron. When I am not studying or programming, I watch history documentaries, I like to read about personal and collective improvement.
-I love doing useful and fun things with programming. I love sharing with friends and learning from each-other.<h2>
+<h2 text-aling="center" color="green" >Welcome to my GitHub profile! I'm Eron.<h2>
 
 ### ✔️ I'm currently learning
 - React.js (front-end website development)
