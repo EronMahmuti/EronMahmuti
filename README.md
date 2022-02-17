@@ -4,9 +4,6 @@
 - React.js (front-end website development)
 - Node.js (back-end website development)
 
-### 😎 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
-
 ### 💡 Goals for 2022:
 - Improving my coding skills 
 - Learn the basics of Node.js
@@ -19,9 +16,6 @@
 - AAB College
 - ICT Cybersecurity course
 - University of Oslo Summer School scholarship
-
-### 🛠 Interested in:
-- Desktop, mobile, fronted, backend, cybersecurity, games.
 
 **To know more:**  [Website](https://eronmahmuti.me/), [LinkedIn](https://www.linkedin.com/in/eron-mahmuti-b06118195/)
 
