@@ -1,4 +1,4 @@
-<h2 text-aling="center" color="green" >Welcome to my GitHub profile! I'm Eron.<h2>
+<h2 text-aling="center" color="green" >Welcome to my GitHub profile! I'm Eron.
 
 ### ✔️ I'm currently learning
 - React.js (front-end website development)
