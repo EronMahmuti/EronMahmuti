@@ -24,8 +24,8 @@ I love doing useful and fun things with programming. I love sharing with friends
 ### 🛠 Interested in:
 - Desktop, mobile, fronted, backend, cybersecurity, games.
 
-**To know more:**  [Website](https://eronmahmuti.me/), [LinkedIn](https://www.linkedin.com/in/eron-mahmuti-b06118195/), [Email](e@eronmahmuti.com)
+**To know more:**  [Website](https://eronmahmuti.me/), [LinkedIn](https://www.linkedin.com/in/eron-mahmuti-b06118195/)
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=EronGit1&show_icons=true"/>](https://github.com/EronGit1/)
+[<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=EronGit1&show_icons=true"/>](https://github.com/EronGit1/)
 
 <br />
