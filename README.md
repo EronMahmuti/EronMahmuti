@@ -19,6 +19,6 @@
 
 **To know more:**  [Website](https://eronmahmuti.me/), [LinkedIn](https://www.linkedin.com/in/eron-mahmuti-b06118195/)
 
-[<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=EronGit1&show_icons=true"/>](https://github.com/EronGit1/)
+[<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=EronMahmuti&show_icons=true"/>](https://github.com/EronMahmuti/)
 
 <br />
