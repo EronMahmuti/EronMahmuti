@@ -8,7 +8,6 @@
 - Improving my coding skills 
 - Learn the basics of Node.js
 - Become skilled in React.js
-- Grow as a person
 - Become part of a team
 
 ### ⚡ Relevant achievement
