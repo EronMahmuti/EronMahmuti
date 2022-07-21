@@ -15,6 +15,7 @@
 - AAB College
 - ICT Cybersecurity course
 - University of Oslo Summer School scholarship
+- Beetroot Academy
 
 **To know more:**  [Website](https://eronmahmuti.netlify.app/), [LinkedIn](https://www.linkedin.com/in/eron-mahmuti-b06118195/)
 
