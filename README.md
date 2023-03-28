@@ -2,14 +2,13 @@
 
 ### ✔️ I'm currently learning
 - React.js (front-end website development)
-- Node.js (back-end website development)
 
-### 💡 Goals for 2022:
+### 💡 Goals for 2023:
 - Improving my coding skills 
 - Learn the basics of Node.js
 - Become skilled in React.js
-- Become part of a team
 
+  
 ### ⚡ Relevant achievement
 - University of Mitrovica
 - AAB College
