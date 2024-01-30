@@ -3,10 +3,9 @@
 ### ✔️ I'm currently learning
 - React.js (front-end website development)
 
-### 💡 Goals for 2023:
+### 💡 Goals for 2024:
 - Improving my coding skills 
-- Learn the basics of Node.js
-- Become skilled in React.js
+- Become skilled in  Node.js
 
   
 ### ⚡ Relevant achievement
